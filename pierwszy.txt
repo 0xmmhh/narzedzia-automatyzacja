@@ -1,1 +1,3 @@
-To jest wersja z dev1
+#############
+Witamy z pierwszego pliku (z brancha: dev1)!!!!!
+#############
